@@ -1,0 +1,17 @@
+{
+  "short_name": "kikysay",
+  "name": "kikysay - Belajar Sebut Kata",
+  "icons": [
+    {
+      "src": "/src/assets/images/mascot_kiky_1794359891883.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#FEF3C7",
+  "theme_color": "#F59E0B",
+  "display": "standalone",
+  "orientation": "portrait"
+}

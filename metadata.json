@@ -1,0 +1,7 @@
+{
+  "name": "kikysay",
+  "description": "Aplikasi interaktif kanak-kanak untuk belajar menyebut perkataan mudah bahasa Melayu dengan pengecaman suara mikrofon, sistem ganjaran bintang, dan mod latihan.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
